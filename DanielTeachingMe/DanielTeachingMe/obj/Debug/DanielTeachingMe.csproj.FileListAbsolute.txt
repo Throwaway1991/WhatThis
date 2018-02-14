@@ -1,0 +1,7 @@
+C:\Users\Gaming\source\repos\DanielTeachingMe\DanielTeachingMe\bin\Debug\DanielTeachingMe.exe.config
+C:\Users\Gaming\source\repos\DanielTeachingMe\DanielTeachingMe\bin\Debug\DanielTeachingMe.exe
+C:\Users\Gaming\source\repos\DanielTeachingMe\DanielTeachingMe\bin\Debug\DanielTeachingMe.pdb
+C:\Users\Gaming\source\repos\DanielTeachingMe\DanielTeachingMe\obj\Debug\DanielTeachingMe.csprojResolveAssemblyReference.cache
+C:\Users\Gaming\source\repos\DanielTeachingMe\DanielTeachingMe\obj\Debug\DanielTeachingMe.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\DanielTeachingMe\DanielTeachingMe\obj\Debug\DanielTeachingMe.exe
+C:\Users\Gaming\source\repos\DanielTeachingMe\DanielTeachingMe\obj\Debug\DanielTeachingMe.pdb

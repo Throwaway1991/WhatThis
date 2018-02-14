@@ -1,0 +1,8 @@
+﻿Day 3 Homework		Due 2/12/2018
+=============================
+
+
+1) Figure out how to top the clip off instead of just tossing that shit into oblivion. Bullets be expensive yo.
+2) Look up increment/decrement in c#.
+3) Read up on extension methods and the "this" keyword.
+4) Read up on shorthanded if statements (optional)

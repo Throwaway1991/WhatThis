@@ -1,0 +1,12 @@
+﻿Day 2 Homework		Due 1/31/2018
+=============================
+
+
+1) Look up and read about "Object Oriented Programming" (wikipedia)
+2) Look up what .ToString("c2") does and see what other things you can do with ToString() ///currency
+3) Create an instance of BasicVariableDay1 class and use the method ExecuteDay1Homework.
+4) Create a class to represent a gun.
+	Functionality would be: Shoot, Reload
+	Properties of a gun: ClipAmmount, TotalAmmo
+	When you can't reload your clip anymore because you've used up all your ammo, display a message that you can't reload because you've run dry
+	
